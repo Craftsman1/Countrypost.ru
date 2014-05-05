@@ -1,0 +1,1 @@
+<span class='ratings ratings_viewer'>	<? for ($i = 0;			$i < 5;			$i++) { ?>	<div class="star<?= $i ?><? if ($i <= $rating) : ?> on<? endif; ?>"></div>	<? } ?>	<span class="vote_count" style="display:block;margin-top:20px;font-weight:normal;">		<?= $vote_count ?> оценок	</span></span><span class="ratings_description">	<?= $description ?></span>
