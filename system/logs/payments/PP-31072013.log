@@ -1,0 +1,91 @@
+########### 31-07-2013 01:25 ###########
+mc_gross		=> 54.00
+invoice		=> 1375220088
+protection_eligibility		=> Ineligible
+address_status		=> unconfirmed
+payer_id		=> D26UNPB7MYGV2
+tax		=> 0.00
+address_street		=> Semashko st., house 5, flat 8
+payment_date		=> 14:25:27 Jul 30, 2013 PDT
+payment_status		=> Completed
+charset		=> windows-1252
+address_zip		=> 603005
+first_name		=> Dmitry
+mc_fee		=> 2.14
+address_country_code		=> RU
+address_name		=> Sobolev Dmitry
+notify_version		=> 3.7
+custom		=> 0
+payer_status		=> verified
+business		=> stuff82@gmail.com
+address_country		=> Russia
+address_city		=> Nizhny Novgorod
+quantity		=> 1
+verify_sign		=> AUaxvSojqajxsiGA9qXfGuCulUctAMOsRRXypkuVQsJGnLTYZGSut9qO
+payer_email		=> nrntm@mail.ru
+txn_id		=> 79K840712T040261H
+payment_type		=> instant
+last_name		=> Sobolev
+address_state		=> Nizhegorodskaya oblast
+receiver_email		=> stuff82@gmail.com
+payment_fee		=> 2.14
+receiver_id		=> N8BXHBYCNHWQ2
+txn_type		=> web_accept
+item_name		=> Pay order: 233 Amount: 54 Client: 607
+mc_currency		=> USD
+item_number		=> 607
+residence_country		=> RU
+handling_amount		=> 0.00
+transaction_subject		=> 0
+payment_gross		=> 54.00
+shipping		=> 0.00
+ipn_track_id		=> 64b123f289130
+########################################
+
+
+########### 31-07-2013 01:25 ###########
+mc_gross		=> 54.00
+invoice		=> 1375220088
+protection_eligibility		=> Ineligible
+address_status		=> unconfirmed
+payer_id		=> D26UNPB7MYGV2
+tax		=> 0.00
+address_street		=> Semashko st., house 5, flat 8
+payment_date		=> 14:25:27 Jul 30, 2013 PDT
+payment_status		=> Completed
+charset		=> windows-1252
+address_zip		=> 603005
+first_name		=> Dmitry
+mc_fee		=> 2.14
+address_country_code		=> RU
+address_name		=> Sobolev Dmitry
+notify_version		=> 3.7
+custom		=> 0
+payer_status		=> verified
+business		=> stuff82@gmail.com
+address_country		=> Russia
+address_city		=> Nizhny Novgorod
+quantity		=> 1
+verify_sign		=> AUaxvSojqajxsiGA9qXfGuCulUctAMOsRRXypkuVQsJGnLTYZGSut9qO
+payer_email		=> nrntm@mail.ru
+txn_id		=> 79K840712T040261H
+payment_type		=> instant
+last_name		=> Sobolev
+address_state		=> Nizhegorodskaya oblast
+receiver_email		=> stuff82@gmail.com
+payment_fee		=> 2.14
+receiver_id		=> N8BXHBYCNHWQ2
+txn_type		=> web_accept
+item_name		=> Pay order: 233 Amount: 54 Client: 607
+mc_currency		=> USD
+item_number		=> 607
+residence_country		=> RU
+handling_amount		=> 0.00
+transaction_subject		=> 0
+payment_gross		=> 54.00
+shipping		=> 0.00
+ipn_track_id		=> 64b123f289130
+Status: OK! 
+########################################
+
+

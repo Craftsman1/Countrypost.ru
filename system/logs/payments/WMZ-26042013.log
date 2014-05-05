@@ -1,0 +1,32 @@
+########### 26-04-2013 13:37 ###########
+########################################
+
+
+########### 26-04-2013 13:37 ###########
+Status: FAIL! Не верная цифровая подпись!
+SignStr:Z735510829657XFgw
+CalcSign:C133C0EDE71FFEA502BC1A9D1AE21E40
+RespSign:
+########################################
+
+
+########### 26-04-2013 13:37 ###########
+LMI_MODE		=> 0
+LMI_PAYMENT_AMOUNT		=> 28.00
+LMI_PAYEE_PURSE		=> Z735510829657
+LMI_PAYMENT_NO		=> 1366969517
+LMI_PAYER_WM		=> 375062441843
+LMI_PAYER_PURSE		=> Z243704458372
+LMI_SYS_INVS_NO		=> 376463247
+LMI_SYS_TRANS_NO		=> 857596112
+LMI_SYS_TRANS_DATE		=> 20130426 13:37:00
+LMI_HASH		=> C4F8509BDC600EC945F6D04E88FDC942
+LMI_PAYMENT_DESC		=> Refill balance for client 599 on $25
+LMI_LANG		=> ru-RU
+LMI_DBLCHK		=> SMS
+User_amount		=> 25
+User_id		=> 599
+User_tax		=> 0
+########################################
+
+

@@ -1,0 +1,36 @@
+########### 11-04-2013 00:32 ###########
+out_summ		=> 6.000000
+OutSum		=> 6.000000
+inv_id		=> 1365625879
+InvId		=> 1365625879
+crc		=> 1FB13A032A3EFF6ACE7D9260C9353B82
+SignatureValue		=> 1FB13A032A3EFF6ACE7D9260C9353B82
+PaymentMethod		=> Qiwi
+IncSum		=> 6.440000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 1
+ShpComment		=> 15
+ShpTax		=> 0
+ShpUser		=> 4
+Status:OK1365625879
+########################################
+
+
+########### 11-04-2013 01:23 ###########
+out_summ		=> 16.000000
+OutSum		=> 16.000000
+inv_id		=> 1365628924
+InvId		=> 1365628924
+crc		=> 98F76364E9C87815BB8E96328F0F610E
+SignatureValue		=> 98F76364E9C87815BB8E96328F0F610E
+PaymentMethod		=> Qiwi
+IncSum		=> 17.170000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 3
+ShpComment		=> 15
+ShpTax		=> 0
+ShpUser		=> 4
+Status:OK1365628924
+########################################
+
+

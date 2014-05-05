@@ -1,0 +1,298 @@
+########### 10-04-2013 12:05 ###########
+Status:Fail! (Invalid signum! [<==>A6B6C02901ADCF865B596313C2391D50])
+########################################
+
+
+########### 10-04-2013 12:06 ###########
+Status:Fail! (Invalid signum! [<==>A6B6C02901ADCF865B596313C2391D50])
+########################################
+
+
+########### 10-04-2013 12:06 ###########
+out_summ		=> 4.000000
+OutSum		=> 4.000000
+inv_id		=> 1365581183
+InvId		=> 1365581183
+crc		=> D7E42579D0C692DC8F7D408DFEEA995A
+SignatureValue		=> D7E42579D0C692DC8F7D408DFEEA995A
+PaymentMethod		=> Qiwi
+IncSum		=> 4.290000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 4
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 12:07 ###########
+out_summ		=> 4.000000
+OutSum		=> 4.000000
+inv_id		=> 1365581183
+InvId		=> 1365581183
+crc		=> D7E42579D0C692DC8F7D408DFEEA995A
+SignatureValue		=> D7E42579D0C692DC8F7D408DFEEA995A
+PaymentMethod		=> Qiwi
+IncSum		=> 4.290000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 4
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 12:08 ###########
+out_summ		=> 4.000000
+OutSum		=> 4.000000
+inv_id		=> 1365581183
+InvId		=> 1365581183
+crc		=> D7E42579D0C692DC8F7D408DFEEA995A
+SignatureValue		=> D7E42579D0C692DC8F7D408DFEEA995A
+PaymentMethod		=> Qiwi
+IncSum		=> 4.290000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 4
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 12:09 ###########
+out_summ		=> 4.000000
+OutSum		=> 4.000000
+inv_id		=> 1365581183
+InvId		=> 1365581183
+crc		=> D7E42579D0C692DC8F7D408DFEEA995A
+SignatureValue		=> D7E42579D0C692DC8F7D408DFEEA995A
+PaymentMethod		=> Qiwi
+IncSum		=> 4.290000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 4
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 12:23 ###########
+out_summ		=> 4.000000
+OutSum		=> 4.000000
+inv_id		=> 1365582181
+InvId		=> 1365582181
+crc		=> B8C35145409EC67D244725CF834B2CC4
+SignatureValue		=> B8C35145409EC67D244725CF834B2CC4
+PaymentMethod		=> Qiwi
+IncSum		=> 4.290000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 4
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:OK1365582181
+########################################
+
+
+########### 10-04-2013 12:32 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365582744
+InvId		=> 1365582744
+crc		=> 141BD0E6B4198FC328C9D29DB2FF8FBF
+SignatureValue		=> 141BD0E6B4198FC328C9D29DB2FF8FBF
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 3
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:OK1365582744
+########################################
+
+
+########### 10-04-2013 16:10 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365595764
+InvId		=> 1365595764
+crc		=> 50005F1F8252BB3A7AD6192A9978D560
+SignatureValue		=> 50005F1F8252BB3A7AD6192A9978D560
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:11 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365595764
+InvId		=> 1365595764
+crc		=> 50005F1F8252BB3A7AD6192A9978D560
+SignatureValue		=> 50005F1F8252BB3A7AD6192A9978D560
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:12 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365595764
+InvId		=> 1365595764
+crc		=> 50005F1F8252BB3A7AD6192A9978D560
+SignatureValue		=> 50005F1F8252BB3A7AD6192A9978D560
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:13 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365595764
+InvId		=> 1365595764
+crc		=> 50005F1F8252BB3A7AD6192A9978D560
+SignatureValue		=> 50005F1F8252BB3A7AD6192A9978D560
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:18 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365596304
+InvId		=> 1365596304
+crc		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+SignatureValue		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:19 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365596304
+InvId		=> 1365596304
+crc		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+SignatureValue		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:20 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365596304
+InvId		=> 1365596304
+crc		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+SignatureValue		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:21 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365596304
+InvId		=> 1365596304
+crc		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+SignatureValue		=> 93A9EF2B3CB7B64C30B00920A10C8AD4
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:Fail! (Заказ не найден.)
+########################################
+
+
+########### 10-04-2013 16:32 ###########
+out_summ		=> 3.000000
+OutSum		=> 3.000000
+inv_id		=> 1365597101
+InvId		=> 1365597101
+crc		=> 120D4B72CD1D93F763293FAC51C0D96E
+SignatureValue		=> 120D4B72CD1D93F763293FAC51C0D96E
+PaymentMethod		=> Qiwi
+IncSum		=> 3.220000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 98
+ShpComment		=> 23
+ShpTax		=> 0
+ShpUser		=> 14
+Status:OK1365597101
+########################################
+
+
+########### 10-04-2013 17:12 ###########
+out_summ		=> 6.000000
+OutSum		=> 6.000000
+inv_id		=> 1365599502
+InvId		=> 1365599502
+crc		=> 1D761AD19175A40E98F23AD60714A84A
+SignatureValue		=> 1D761AD19175A40E98F23AD60714A84A
+PaymentMethod		=> Qiwi
+IncSum		=> 6.440000
+IncCurrLabel		=> Qiwi29OceanR
+ShpAmount		=> 1
+ShpComment		=> 15
+ShpTax		=> 0
+ShpUser		=> 4
+Status:OK1365599502
+########################################
+
+

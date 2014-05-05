@@ -1,0 +1,18 @@
+########### 30-10-2013 13:18 ###########
+out_summ		=> 5214.000000
+OutSum		=> 5214.000000
+inv_id		=> 1383125866
+InvId		=> 1383125866
+crc		=> 0C40AD577B11EDBD92DEE507B169E4F4
+SignatureValue		=> 0C40AD577B11EDBD92DEE507B169E4F4
+PaymentMethod		=> OceanBank
+IncSum		=> 5546.810000
+IncCurrLabel		=> BANKOCEAN2R
+ShpAmount		=> 160395
+ShpComment		=> 1080
+ShpTax		=> 0
+ShpUser		=> 1783
+Status:OK1383125866
+########################################
+
+

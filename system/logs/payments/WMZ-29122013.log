@@ -1,0 +1,54 @@
+########### 29-12-2013 14:40 ###########
+########################################
+
+
+########### 29-12-2013 14:40 ###########
+Status: FAIL! Не верная цифровая подпись!
+SignStr:Z735510829657XFgw
+CalcSign:C133C0EDE71FFEA502BC1A9D1AE21E40
+RespSign:
+########################################
+
+
+########### 29-12-2013 14:40 ###########
+LMI_MODE		=> 0
+LMI_PAYMENT_AMOUNT		=> 54.00
+LMI_PAYEE_PURSE		=> Z735510829657
+LMI_PAYMENT_NO		=> 1388314178
+LMI_PAYER_WM		=> 375062441843
+LMI_PAYER_PURSE		=> Z243704458372
+LMI_SYS_INVS_NO		=> 435911395
+LMI_SYS_TRANS_NO		=> 972306172
+LMI_SYS_TRANS_DATE		=> 20131229 14:40:49
+LMI_HASH		=> E456B5A1088522A6352873107820F805
+LMI_PAYMENT_DESC		=> Order: 1261. Payment: 54 USD. User: 599
+LMI_LANG		=> ru-RU
+LMI_DBLCHK		=> SMS
+User_amount		=> 311
+User_id		=> 599
+User_tax		=> 0
+order		=> 1261
+########################################
+
+
+########### 29-12-2013 14:40 ###########
+LMI_MODE		=> 0
+LMI_PAYMENT_AMOUNT		=> 54.00
+LMI_PAYEE_PURSE		=> Z735510829657
+LMI_PAYMENT_NO		=> 1388314178
+LMI_PAYER_WM		=> 375062441843
+LMI_PAYER_PURSE		=> Z243704458372
+LMI_SYS_INVS_NO		=> 435911395
+LMI_SYS_TRANS_NO		=> 972306172
+LMI_SYS_TRANS_DATE		=> 20131229 14:40:49
+LMI_HASH		=> E456B5A1088522A6352873107820F805
+LMI_PAYMENT_DESC		=> Order: 1261. Payment: 54 USD. User: 599
+LMI_LANG		=> ru-RU
+LMI_DBLCHK		=> SMS
+User_amount		=> 311
+User_id		=> 599
+User_tax		=> 0
+order		=> 1261
+########################################
+
+

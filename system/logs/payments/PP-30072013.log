@@ -1,0 +1,91 @@
+########### 30-07-2013 15:37 ###########
+mc_gross		=> 1.00
+invoice		=> 1375184238
+protection_eligibility		=> Ineligible
+address_status		=> unconfirmed
+payer_id		=> H3GDKNC7A9YLJ
+tax		=> 0.00
+address_street		=> Veernaja 36-2-64
+payment_date		=> 04:37:53 Jul 30, 2013 PDT
+payment_status		=> Completed
+charset		=> windows-1252
+address_zip		=> 119501
+first_name		=> Alexandr
+mc_fee		=> 0.33
+address_country_code		=> RU
+address_name		=> Tonkonogov Alexandr
+notify_version		=> 3.7
+custom		=> 0
+payer_status		=> verified
+business		=> stuff82@gmail.com
+address_country		=> Russia
+address_city		=> Moscow
+quantity		=> 1
+verify_sign		=> AGu.hbwMxRXoqDiyy-IJNOnULnvNAemyKajm5XmT8hNh05.k1OBoSNJZ
+payer_email		=> sahaton@mail.ru
+txn_id		=> 88P439711D015182F
+payment_type		=> instant
+last_name		=> Tonkonogov
+address_state		=> 
+receiver_email		=> stuff82@gmail.com
+payment_fee		=> 0.33
+receiver_id		=> N8BXHBYCNHWQ2
+txn_type		=> web_accept
+item_name		=> Pay order: 19 Amount: 1 Client: 4
+mc_currency		=> USD
+item_number		=> 4
+residence_country		=> RU
+handling_amount		=> 0.00
+transaction_subject		=> 0
+payment_gross		=> 1.00
+shipping		=> 0.00
+ipn_track_id		=> b2086cb1cd5e9
+########################################
+
+
+########### 30-07-2013 15:37 ###########
+mc_gross		=> 1.00
+invoice		=> 1375184238
+protection_eligibility		=> Ineligible
+address_status		=> unconfirmed
+payer_id		=> H3GDKNC7A9YLJ
+tax		=> 0.00
+address_street		=> Veernaja 36-2-64
+payment_date		=> 04:37:53 Jul 30, 2013 PDT
+payment_status		=> Completed
+charset		=> windows-1252
+address_zip		=> 119501
+first_name		=> Alexandr
+mc_fee		=> 0.33
+address_country_code		=> RU
+address_name		=> Tonkonogov Alexandr
+notify_version		=> 3.7
+custom		=> 0
+payer_status		=> verified
+business		=> stuff82@gmail.com
+address_country		=> Russia
+address_city		=> Moscow
+quantity		=> 1
+verify_sign		=> AGu.hbwMxRXoqDiyy-IJNOnULnvNAemyKajm5XmT8hNh05.k1OBoSNJZ
+payer_email		=> sahaton@mail.ru
+txn_id		=> 88P439711D015182F
+payment_type		=> instant
+last_name		=> Tonkonogov
+address_state		=> 
+receiver_email		=> stuff82@gmail.com
+payment_fee		=> 0.33
+receiver_id		=> N8BXHBYCNHWQ2
+txn_type		=> web_accept
+item_name		=> Pay order: 19 Amount: 1 Client: 4
+mc_currency		=> USD
+item_number		=> 4
+residence_country		=> RU
+handling_amount		=> 0.00
+transaction_subject		=> 0
+payment_gross		=> 1.00
+shipping		=> 0.00
+ipn_track_id		=> b2086cb1cd5e9
+Status: OK! 
+########################################
+
+

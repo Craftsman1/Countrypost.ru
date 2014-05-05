@@ -1,0 +1,5541 @@
+########### 24-07-2013 12:13 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(57) "http://countrypost.ru/syspay/showResultQW/order1374167941"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["SCRIPT_URI"]=>
+  string(57) "http://countrypost.ru/syspay/showResultQW/order1374167941"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(586) "__utma=83332484.2004863324.1373973919.1373984981.1374060820.4; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2214c1892f1467233818c91621895459c6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374653626%22%3B%7D5a95668a759b0e65277c743c801d9b04; PHPSESSID=d89edc4243b07ed246fdb7b25c450842"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "46010"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(35) "syspay/showResultQW/order1374167941"
+  ["REDIRECT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(35) "syspay/showResultQW/order1374167941"
+  ["REQUEST_URI"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374653635)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(35) "syspay/showResultQW/order1374167941"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 12:13 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(57) "http://countrypost.ru/syspay/showResultQW/order1374167941"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["SCRIPT_URI"]=>
+  string(57) "http://countrypost.ru/syspay/showResultQW/order1374167941"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(586) "__utma=83332484.2004863324.1373973919.1373984981.1374060820.4; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A4%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2214c1892f1467233818c91621895459c6%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374653626%22%3B%7D5a95668a759b0e65277c743c801d9b04; PHPSESSID=d89edc4243b07ed246fdb7b25c450842"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "46010"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(35) "syspay/showResultQW/order1374167941"
+  ["REDIRECT_URL"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(35) "syspay/showResultQW/order1374167941"
+  ["REQUEST_URI"]=>
+  string(36) "/syspay/showResultQW/order1374167941"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374653635)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(35) "syspay/showResultQW/order1374167941"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 13:02 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "46248"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374656570)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 13:02 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "46248"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374656570)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 15:03 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47228"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374663820)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 15:03 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47228"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374663820)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:12 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(4) "1791"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47530"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374667944)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:12 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(4) "1791"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47530"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374667944)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:17 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47543"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668245)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:17 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47543"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668245)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:20 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47572"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668408)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:20 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305022141&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374662988.1374666484.206; __utmb=83332484.6.10.1374666484; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22cd6a440056d9d68afc7d80ad37aa3f9f%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374668348%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285262%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D09fe43b3f0c835ab30d816c30bec4ba7"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47573"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374668374"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374668374"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374668374"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668408)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374668374"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:20 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305022141&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374662988.1374666484.206; __utmb=83332484.6.10.1374666484; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22cd6a440056d9d68afc7d80ad37aa3f9f%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374668348%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285262%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D09fe43b3f0c835ab30d816c30bec4ba7"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47573"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374668374"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374668374"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374668374"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668408)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374668374"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:20 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47572"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374668408)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:38 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47649"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669494)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:38 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47649"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669494)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:38 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305026231&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmb=83332484.1.10.1374668956; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220bad68331d3147501159276956af2480%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374669283%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285261%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Da9144d49f2176fd8a4940e67128a436d"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47652"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669444"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669444"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374669444"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669495)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374669444"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:38 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305026231&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmb=83332484.1.10.1374668956; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220bad68331d3147501159276956af2480%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374669283%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285261%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Da9144d49f2176fd8a4940e67128a436d"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47652"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669444"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669444"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374669444"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669495)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374669444"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:43 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47692"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669818)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:43 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47692"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669818)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:43 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305027533&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmb=83332484.2.10.1374668956; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2211019db01bf990f8c26e6a6a4114cb7b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374669711%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285260%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Db3a0c6ca9f4aa97b56077437c98efc82"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47693"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669799"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669799"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374669799"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669818)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374669799"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 16:43 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305027533&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmb=83332484.2.10.1374668956; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2211019db01bf990f8c26e6a6a4114cb7b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374669711%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285260%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Db3a0c6ca9f4aa97b56077437c98efc82"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "47693"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669799"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374669799"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374669799"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374669818)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374669799"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:27 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305038065&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1283) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283dda6a4cef8ac20772c4e4f8086ca72%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374672325%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285259%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D2312a1821a6616932294a320efb1b9c8"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48011"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374672407"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374672407"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374672407"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374672448)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374672407"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:27 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305038065&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1283) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374060820.1374668956.5; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%2283dda6a4cef8ac20772c4e4f8086ca72%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374672325%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285259%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D2312a1821a6616932294a320efb1b9c8"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48011"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374672407"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374672407"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374672407"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374672448)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374672407"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:27 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48015"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374672449)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:27 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48015"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374672449)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:48 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305043068&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374668956.1374672459.6; __utmb=83332484.1.10.1374672459; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ec2c0a9879248e893f1652bc327a0728%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374673621%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285258%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Dd24d0a10d42492f7db753d3936154215"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48137"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673667"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673667"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374673667"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673720)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374673667"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:48 ###########
+Status: FAIL! code: 300
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_REAL_IP"]=>
+  string(12) "46.46.87.247"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(102) "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305043068&phone=9161279091&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_ACCEPT_CHARSET"]=>
+  string(32) "windows-1251,utf-8;q=0.7,*;q=0.3"
+  ["HTTP_COOKIE"]=>
+  string(1316) "PHPSESSID=d89edc4243b07ed246fdb7b25c450842; __utma=83332484.2004863324.1373973919.1374668956.1374672459.6; __utmb=83332484.1.10.1374672459; __utmc=83332484; __utmz=83332484.1374060820.4.4.utmcsr=teamer.ru|utmccn=(referral)|utmcmd=referral|utmcct=/projects/85073/1122457.html; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22ec2c0a9879248e893f1652bc327a0728%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A12%3A%2246.46.87.247%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28X11%3B+Linux+i686%29+AppleWebKit%2F537.31+%28%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374673621%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285258%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Dd24d0a10d42492f7db753d3936154215"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(12) "46.46.87.247"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48137"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673667"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673667"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374673667"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673720)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374673667"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:48 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48138"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673720)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:48 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48138"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673720)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:50 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48154"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673808)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:50 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48154"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673808)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:50 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305043392&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1264) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374662988.1374666484.206; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22df4813b042b80391e1f93207ea77e57b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374673741%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285257%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D1014a7c32e1eef65db575457dd79344c"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48155"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673758"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673758"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374673758"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673810)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374673758"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:50 ###########
+Status: FAIL! code: 300
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305043392&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1264) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374662988.1374666484.206; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%22df4813b042b80391e1f93207ea77e57b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374673741%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285257%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D1014a7c32e1eef65db575457dd79344c"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48155"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673758"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374673758"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374673758"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374673810)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374673758"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:55 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48193"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674142)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:55 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48193"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674142)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:55 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305044759&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.1.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220f7a72a4b4e7599cfc551776d390ccba%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674075%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285256%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D758126a99f8587d6eab8b214a9b3d398"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48194"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674118"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674118"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674118"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674143)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674118"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 17:55 ###########
+Status: FAIL! code: 301
+payment_id = array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305044759&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.1.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%220f7a72a4b4e7599cfc551776d390ccba%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674075%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285256%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D758126a99f8587d6eab8b214a9b3d398"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48194"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674118"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674118"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674118"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674143)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674118"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48237"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674469)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48237"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674469)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48238"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674469)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48238"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674469)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48239"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674471)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48239"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674471)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:05 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48303"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674742)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:05 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48303"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674742)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:05 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305047059&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.2.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224b10726a67fb24a6279207fd6b425020%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674661%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285255%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D96bbf693848b71ac83ec931827db2472"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48304"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674675"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674675"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674675"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674744)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674675"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:05 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305047059&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.2.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224b10726a67fb24a6279207fd6b425020%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674661%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285255%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7D96bbf693848b71ac83ec931827db2472"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48304"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674675"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674675"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674675"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674744)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674675"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:07 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48332"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674844)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:07 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.51"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "294"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.51"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48332"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674844)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:07 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305047541&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.2.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224b10726a67fb24a6279207fd6b425020%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674661%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285254%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Ded5178ed5ac2847cac0050f91e1bad81"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48333"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674804"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674804"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674804"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674845)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674804"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 18:07 ###########
+array(46) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "95.27.118.159"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["HTTP_ACCEPT"]=>
+  string(63) "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+  ["HTTP_USER_AGENT"]=>
+  string(101) "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.72 Safari/537.36"
+  ["HTTP_REFERER"]=>
+  string(189) "https://w.qiwi.ru/externalorder.action?id=305047541&phone=9163978497&successUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowResultQW&failUrl=https%3A%2F%2Fcountrypost.ru%2Fsyspay%2FshowFail"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(17) "gzip,deflate,sdch"
+  ["HTTP_ACCEPT_LANGUAGE"]=>
+  string(35) "ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4"
+  ["HTTP_COOKIE"]=>
+  string(1297) "PHPSESSID=dc78217f00c609e245d2107b0f4f5f94; __utma=83332484.2022184633.1371046194.1374666484.1374674082.207; __utmb=83332484.2.10.1374674082; __utmc=83332484; __utmz=83332484.1373876499.153.3.utmcsr=yandex|utmccn=(organic)|utmcmd=organic|utmctr=countrypost; ci_session=a%3A16%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%224b10726a67fb24a6279207fd6b425020%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%2295.27.118.159%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%29+AppleWebKit%2F537.36+%28K%22%3Bs%3A13%3A%22last_activity%22%3Bs%3A10%3A%221374674661%22%3Bs%3A20%3A%22user_country_name_en%22%3Bs%3A6%3A%22Russia%22%3Bs%3A9%3A%22user_name%22%3Bs%3A26%3A%22Tonkonogov+Yury+Andreevich%22%3Bs%3A7%3A%22user_id%22%3Bs%3A1%3A%224%22%3Bs%3A10%3A%22user_login%22%3Bs%3A9%3A%22Craftsman%22%3Bs%3A13%3A%22user_password%22%3Bs%3A32%3A%22e10adc3949ba59abbe56e057f20f883e%22%3Bs%3A10%3A%22user_group%22%3Bs%3A6%3A%22client%22%3Bs%3A10%3A%22user_email%22%3Bs%3A18%3A%22sdfwef12%40yandex.ru%22%3Bs%3A11%3A%22user_coints%22%3Bs%3A5%3A%2285254%22%3Bs%3A12%3A%22user_deleted%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22positive_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A15%3A%22neutral_reviews%22%3Bs%3A1%3A%220%22%3Bs%3A16%3A%22negative_reviews%22%3Bs%3A1%3A%220%22%3B%7Ded5178ed5ac2847cac0050f91e1bad81"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "95.27.118.159"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48333"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674804"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(36) "syspay/showResultQW&order=1374674804"
+  ["REQUEST_URI"]=>
+  string(37) "/syspay/showResultQW?order=1374674804"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374674845)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(36) "syspay/showResultQW&order=1374674804"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 19:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48509"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374678066)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
+########### 24-07-2013 19:01 ###########
+array(47) {
+  ["PHPRC"]=>
+  string(38) "/home/countrypost/fcgi-bin/../etc/php5"
+  ["SCRIPT_FILENAME"]=>
+  string(39) "/home/countrypost/public_html/index.php"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["PWD"]=>
+  string(26) "/home/countrypost/fcgi-bin"
+  ["SHLVL"]=>
+  string(1) "0"
+  ["FCGI_ROLE"]=>
+  string(9) "RESPONDER"
+  ["REDIRECT_HTTPS"]=>
+  string(2) "on"
+  ["REDIRECT_SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["REDIRECT_SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTPS"]=>
+  string(2) "on"
+  ["SCRIPT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_URI"]=>
+  string(41) "http://countrypost.ru/syspay/showResultQW"
+  ["HTTP_HOST"]=>
+  string(14) "countrypost.ru"
+  ["HTTP_X_FORWARDED_FOR"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_REAL_IP"]=>
+  string(13) "91.232.231.34"
+  ["HTTP_X_FORWARDED_HTTPS"]=>
+  string(2) "on"
+  ["HTTP_X_FORWARDED_PROTO"]=>
+  string(5) "https"
+  ["HTTP_CONNECTION"]=>
+  string(5) "close"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=UTF-8"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_SOAPACTION"]=>
+  string(2) """"
+  ["HTTP_USER_AGENT"]=>
+  string(16) "Apache CXF 2.6.1"
+  ["HTTP_CACHE_CONTROL"]=>
+  string(8) "no-cache"
+  ["HTTP_PRAGMA"]=>
+  string(8) "no-cache"
+  ["CONTENT_LENGTH"]=>
+  string(3) "295"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(14) "countrypost.ru"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(13) "91.232.231.34"
+  ["DOCUMENT_ROOT"]=>
+  string(29) "/home/countrypost/public_html"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["REMOTE_PORT"]=>
+  string(5) "48509"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REDIRECT_URL"]=>
+  string(20) "/syspay/showResultQW"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.0"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(19) "syspay/showResultQW"
+  ["REQUEST_URI"]=>
+  string(20) "/syspay/showResultQW"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1374678066)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(19) "syspay/showResultQW"
+  }
+  ["argc"]=>
+  int(1)
+}
+########################################
+
+
